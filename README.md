@@ -1,5 +1,7 @@
 # Find-the-nuclei-in-divergent-segmentation
 
+google colab notebook 에서 진행을 하였습니다.
+
 세포핵 segmentation을 위한 U-NET 적용 결과입니다.
 
 ![plot](https://user-images.githubusercontent.com/62852426/231238002-aeadbeef-ac1a-4847-81e3-8ad77c1f530c.png)
